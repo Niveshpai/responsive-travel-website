@@ -8,7 +8,7 @@ Explore The <br> Best <b>Beautiful <br> Beaches</b>
 home__social
 https://www.facebook.com/
 https://www.instagram.com/
-https://twitter.com/
+https://youtube.com/
 
 home__info-title
 5 best places to visit
@@ -64,7 +64,7 @@ Travel you choose the <br> destination, we offer you the <br> experience.
 footer__social
 https://www.facebook.com/
 https://www.instagram.com/
-https://twitter.com/
+https://youtube.com/
 https://www.youtube.com/
 
 
