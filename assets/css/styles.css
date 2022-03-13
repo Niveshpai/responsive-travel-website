@@ -210,6 +210,7 @@ input {
 
 .nav__logo {
   font-weight: var(--font-semi-bold);
+  font-size: xx-large;
 }
 
 .nav__toggle {
@@ -646,7 +647,7 @@ input {
 /*=============== SUBSCRIBE ===============*/
 .subscribe__bg {
   background-color: var(--first-color-second);
-  padding: 2.5rem 0;
+  padding: 1.5rem 0;
 }
 
 .subscribe__title, 
@@ -660,10 +661,9 @@ input {
 }
 
 .subscribe__form {
-  background-color: var(--input-color);
-  padding: .5rem;
-  display: flex;
-  justify-content: space-between;
+  padding: 0.2rem;
+  display:flex;
+  justify-content:center;
 }
 
 .subscribe__input {
