@@ -1,5 +1,5 @@
-# XTream - Esports Website 🌊
-###  XTream - Esports Website 🌊
+# Trinity-Z - Esports Website 🌊
+###  Trinity-Z - Esports Website 🌊
 
 - Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
 - Contains animations when scrolling.
